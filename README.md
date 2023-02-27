@@ -11,7 +11,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-- [Diagram](#diagram)   
+- [Key Features](#key-features) 
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -47,6 +47,15 @@
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Key Features -->
+
+## Key Features <a name="key-features"></a>
+
+> Key Features of Project.
+- Backend Api to provide random greetings
+- React/Redux as front end.
+- Postgres database to store greetings
 
 
 <!-- GETTING STARTED -->
